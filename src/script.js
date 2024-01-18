@@ -7,7 +7,7 @@ canvas.height = window.innerHeight;
 //crea y dibuja los objetos
 class Symbol{
     constructor(x, y, fontSize, height){
-        this.characters ='.   ';//♡
+        this.characters ='TEDWIN   ';//♡
         this.x = x;
         this.y = y;
         this.fontSize = fontSize;
